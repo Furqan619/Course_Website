@@ -1,0 +1,98 @@
+[
+    {
+    "id":1,
+    "name": "Javascript",
+    "title": "Lorem, ipsum dolor",
+    "price":2500,
+    "category":"Paid",
+    "image":"https://i.pinimg.com/564x/b2/ee/57/b2ee57f6fe8e4447be4a48bc386c8c5e.jpg"
+    
+    },
+
+    {
+        "id":2,
+        "name": "Python",
+        "title": "Python Programming",
+        "price":0,
+        "category":"Free",
+        "image":"https://i.pinimg.com/564x/b2/ee/57/b2ee57f6fe8e4447be4a48bc386c8c5e.jpg"
+        
+    },
+    {
+        "id":3,
+        "name": "Django",
+        "title": "Django Programming",
+        "price":5000,
+        "category":"Paid",
+        "image":"https://i.pinimg.com/564x/b2/ee/57/b2ee57f6fe8e4447be4a48bc386c8c5e.jpg"
+        
+    },
+    {
+        "id":4,
+        "name": "React",
+        "title": "React Programming",
+        "price":5000,
+        "category":"Paid",
+        "image":"https://i.pinimg.com/564x/b2/ee/57/b2ee57f6fe8e4447be4a48bc386c8c5e.jpg"
+        
+    },
+    {
+        "id":5,
+        "name": "Java",
+        "title": "Java Programming",
+        "price":0,
+        "category":"Free",
+        "image":"https://i.pinimg.com/564x/b2/ee/57/b2ee57f6fe8e4447be4a48bc386c8c5e.jpg"
+        
+    }
+    ,
+    {
+        "id":6,
+        "name": "Laravel",
+        "title": "Laravel Programming",
+        "price":2000,
+        "category":"Paid",
+        "image":"https://i.pinimg.com/564x/b2/ee/57/b2ee57f6fe8e4447be4a48bc386c8c5e.jpg"
+        
+    }
+    ,
+    {
+        "id":7,
+        "name": "Wordpress",
+        "title": "Wordpress CMS",
+        "price":1500,
+        "category":"Paid",
+        "image":"https://i.pinimg.com/564x/b2/ee/57/b2ee57f6fe8e4447be4a48bc386c8c5e.jpg"
+        
+    }
+    ,
+    {
+        "id":8,
+        "name": "Wix",
+        "title": "Wix CMS",
+        "price":0,
+        "category":"Free",
+        "image":"https://i.pinimg.com/564x/b2/ee/57/b2ee57f6fe8e4447be4a48bc386c8c5e.jpg"
+        
+    }
+    ,
+    {
+        "id":9,
+        "name": "Drupal",
+        "title": "Drupal Programming",
+        "price":0,
+        "category":"Free",
+        "image":"https://i.pinimg.com/564x/b2/ee/57/b2ee57f6fe8e4447be4a48bc386c8c5e.jpg"
+        
+    }
+    ,
+    {
+        "id":10,
+        "name": "HTML5",
+        "title": "HTML5 ",
+        "price":0,
+        "category":"Free",
+        "image":"https://i.pinimg.com/564x/b2/ee/57/b2ee57f6fe8e4447be4a48bc386c8c5e.jpg"
+        
+    }
+]
